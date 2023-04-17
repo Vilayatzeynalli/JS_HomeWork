@@ -25,10 +25,8 @@ console.log(getLastItem([true, false, true]));
 
 let finIndexFunc=function (arr3,string) {
     for (let i = 0; i < arr3.length; i++) {
-        if (arr3[i] == string) {
-            
-        }
-        
+        if (arr3[i] == string) {   
+        }  
     }
     return i
 }
