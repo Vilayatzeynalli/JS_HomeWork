@@ -1,0 +1,64 @@
+
+section{
+    margin-left: 450px;
+    padding: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid bisque;
+    width: 400px;
+    height: 600px;
+    background-color: bisque;
+    border-radius: 8px;   
+}
+h1{
+    font-size: 30px;
+}
+#result{
+    border: 1px solid black;
+    width: 355px;
+    height: 35px;
+    background-color: black; 
+    color: white;
+    font-size: 30px;
+    
+ }
+.contain{
+    display: flex;
+    gap: 10px;
+}
+#invalue1{
+    height: 25px;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 360px;
+    
+}
+#addition-btn{
+    height: 30px;
+    font-size: 17px;
+}
+#substract-btn{
+    height: 30px;
+    font-size: 17px;
+}
+#multiply-btn{
+    height: 30px;
+    font-size: 17px;
+}
+#division-btn{
+    height: 30px;
+    font-size: 17px;
+}
+#reset{
+    height: 30px;
+    background-color: orange;
+    font-size: 17px;
+}  
