@@ -4,3 +4,4 @@
 * 16.Arrays Methods-/https://funny-donut-07a285.netlify.app/
 * 18.DOMvsBOM-first-task-/https://wondrous-meringue-6e1d98.netlify.app/
 * 19.Table-/https://dainty-bombolone-6e6238.netlify.app/
+* JS.Calculator-/https://gregarious-licorice-ae132a.netlify.app/
