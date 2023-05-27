@@ -1,0 +1,46 @@
+#care-about{
+    background-color: pink;
+    padding: 50px 0;
+    .we-care{
+        text-align: center;
+    }
+    .row{
+        .col-12{
+            border: 1px solid black;
+            border-radius: 8px ;
+            background-color: white;
+            padding: 30px 0;
+            .delete{
+                width: 50px;
+                height: 25px;
+                border: none;
+                background-color: blue;
+                border-radius: 5px;
+                color: white;
+            }
+            .edit{
+                text-decoration: none;
+                border: 1px solid green;
+               border-radius: 5px;
+               background-color: green;
+               color: white;
+            }
+            .details{
+                width: 50px;
+                height: 25px;
+                border: none;
+                background-color: orange;
+                border-radius: 5px;
+                color: white;
+            }
+            .fav{
+                width: 30px;
+                height: 25px;
+                border: none;
+                background-color: red;
+                border-radius: 5px;
+                color: white;
+            }
+        }
+    }
+}

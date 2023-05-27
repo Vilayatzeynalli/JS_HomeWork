@@ -1,0 +1,25 @@
+footer{
+    padding: 100px 0;
+    .copyright{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .icon{
+            font-size: 35px;
+            a{
+                color: black;
+                &:hover{
+                    color: pink;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width:800px) {
+    footer{
+        .copyright{
+            flex-direction: column;
+            text-align: center;
+        }
+    }
+}
